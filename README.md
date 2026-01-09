@@ -4,8 +4,7 @@ Soy Alejandro, desarrollador web full stack con experiencia en el desarrollo de 
 
 He participado en proyectos con autenticación mediante JWT, desarrollo de APIs REST, sistemas de chat y amistades, gestión de stock e inventarios, aplicaciones web instalables en local y visualización 2D en canvas. También he trabajado en entornos empresariales con ERP y CRM, automatizando procesos como facturación, control de stock, tarifas, clientes y generación de XML (TecERP).
 
-Tengo experiencia en arquitectura de software, patrones MVC, desarrollo de SaaS y metodologías ágiles. Actualmente sigo ampliando conocimientos en tecnologías modernas y creando contenido técnico orientado a formar comunidad.
-
+Tengo experiencia en arquitectura de software, patrones MVC, desarrollo de SaaS y metodologías ágiles. Actualmente sigo ampliando conocimientos en tecnologías de Inteligencia Artificial y Big Data.
 ---
 
 ## Enlaces
